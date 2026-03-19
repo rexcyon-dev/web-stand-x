@@ -1,6 +1,6 @@
 # StandX Deep Dive — DeFi Research Article
 
-> **Live Site:** https://yourusername.github.io/standx
+> **Live Site:** https://rexcyon-dev.github.io/standx
 
 A professional research article and X (Twitter) thread campaign for [StandX](https://standx.com) — the first Perpetual DEX where your trading margin actively earns yield via $DUSD.
 
